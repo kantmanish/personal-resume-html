@@ -1,35 +1,34 @@
 # personal-resume-html
 A foundational web development project showcasing HTML structure, semantic tags, and interactive elements.
+📄 Personal Static Resume
+A clean and organized resume designed using pure HTML. This project explores the basic elements of web development, such as the structure of a document and the use of structural elements.
 
-📄 HTML Static Resume
-A clean, semantic, and well-structured resume built using pure HTML5. This project demonstrates the fundamental building blocks of web development, focusing on document hierarchy and the use of semantic tags without external styling.
+🚀 Main Features
 
-✨ Features
-Semantic Structure: Uses HTML5 tags like <fieldset>, <section>, and <footer> for better organization.
+Logical Structure: Organized using structural elements to divide contact information, education, and work experience.
 
-Interactive FAQ: Includes an interactive "Frequently Asked Questions" section using the <details> and <summary> tags.
+Interactive FAQ: Contains an interactive "Frequently Asked Questions" section with clickable answers.
 
-Data Organization: Showcases the use of <table> for layout and <ul>/<li> for professional experience and skills.
+Data Organization: Organized using tables for layout and bulleted lists for work experience.
 
-Accessible Links: Integrated social media and email links (LinkedIn, Instagram, and Mailto).
+Functional Links: Integrated social media and email contact links.
 
-🛠️ Skills Demonstrated
-HTML5 Tags: Mastering <fieldset>, <legend>, <details>, and <summary>.
 
-Tables: Structuring data and images using <table> and <td>.
+🛠️ Skills Utilized
 
-Hyperlinks: Creating functional navigation and contact links.
+Structural Tags: Proficiency in using grouping tags such as fieldsets and legends.
 
-Document Flow: Organizing content logically from Header to Footer.
+Navigation: Building functional links for professional networks and email.
 
-🚀 How to Run
-Clone this repository or download the files.
+Interactive Elements: Utilizing summary and details tags for a modern interface experience.
 
-Open the index.html file in any web browser (Chrome, Safari, Edge, etc.).
+Media Handling: Correct usage of profile pictures and icons.
 
-No installation or server is required!
 
-📁 Project Structure
-Plaintext
-├── index.html       # Main resume content
-└── README.md        # Project documentation
+📂 How to Open
+
+Download the repository as a ZIP file or clone it.
+
+Locate the index.html file in the project folder.
+
+Right-click the file and select "Open with" your favorite web browser.
